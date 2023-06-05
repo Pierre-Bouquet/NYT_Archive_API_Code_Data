@@ -1,4 +1,4 @@
-# NYT Archive API - Code&Data
+# NYT Archive API - Code & Data
 
 Code and data from: [https://developer.nytimes.com/](https://developer.nytimes.com/docs/archive-product/1/overview)
 
