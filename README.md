@@ -1,6 +1,7 @@
 # NYT Archive API - Code & Data
 
-Code and data from: [https://developer.nytimes.com/](https://developer.nytimes.com/docs/archive-product/1/overview)
+Data from: [https://developer.nytimes.com/](https://developer.nytimes.com/docs/archive-product/1/overview)
+The API is limited to 500 requests a day, here's all the data you'll need <3
 
 Includes: 
 - Code in python to fetch the data from the Archive API of the NYT Times
