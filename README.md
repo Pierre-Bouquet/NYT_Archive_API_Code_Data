@@ -43,7 +43,13 @@ Kept: Top 5 keywords
 Removed: "Motion pictures" from keywords
 
 Output columns:
-{'headline', 'abstract', 'pub_date', 'web_url', 'keyword_1', 'keyword_2', 'keyword_3', 'keyword_4', 'keyword_5'}
+{'headline', 'abstract', 'pub_date', 'web_url',
+"keyword_1", "keyword_2", "keyword_3", "keyword_4", "keyword_5", 
+"keyword_6", "keyword_7", "keyword_8", "keyword_9", "keyword_10"}
+
+## Notes
+
+- The API returns an empty .json for months 8/1979 and 9/1979.
 
 
 
